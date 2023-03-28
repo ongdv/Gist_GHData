@@ -21,7 +21,6 @@
 
 ### Project setup
 
- 
 1. Generate a repo from this template by clicking [here](https://github.com/yg/gh-box/generate)
 1. Fill in the details and click `Create repository from template`
 1. Go to the repo **Settings > Secrets**
